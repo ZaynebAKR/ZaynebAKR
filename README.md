@@ -1,26 +1,26 @@
 # Hi 👋, I'm Zayneb Akermi  
 **Full-Stack Developer & Software Engineering Student from Tunisia**
 
-🎓 **Software Engineering Student** | 💻 **Full-Stack Developer** | 🚀 **Tech Enthusiast**
+🎓 **Software Engineering Student** | 💻 **Full-Stack Developer** 
 
 ---
 
 ## 🚀 About Me
 I'm a passionate software engineering student with expertise in full-stack development. I enjoy building scalable web applications and solving complex problems through clean, efficient code.
 
-🌱 **I'm currently learning** Angular, Spring Boot, and cloud architecture
+🌱 **I'm currently learning** Next.js, React, Angular and Spring Boot
 
 👨‍💻 **All of my projects are available at** [github.com/ZaynebAKR](https://github.com/ZaynebAKR)
 
 💬 **Ask me about** web development, software architecture, and modern tech stacks
 
-📫 **How to reach me** zayneb.akermi@email.com
+📫 **How to reach me** zayneb.akremi@esprit.tn
 
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayneb.akermi@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/zayneb-akremi/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayneb.akremi@esprit.tn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaynebAKR)
 
 ---
@@ -59,36 +59,7 @@ I'm a passionate software engineering student with expertise in full-stack devel
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-3366CC?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Zayneb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaynebAKR&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynebAKR&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZaynebAKR&theme=radical&hide_border=true)
-
----
-
-## 🏆 Featured Projects
-
-### 🚀 UBCI Dashboard Platform
-**Full-stack operations management system**
-- Angular + Spring Boot + MySQL
-- Real-time monitoring & automated dashboards
-- Agile/Scrum methodology implementation
-
-### 🎨 ArtSpectra
-**SaaS platform for artist management**
-- Next.js 14 + Supabase + Drizzle ORM
-- Complete CRUD operations & real-time features
-- Modern UI/UX with responsive design
-
-### 📊 Other Projects
-Explore more on my [GitHub](https://github.com/ZaynebAKR) for various web applications, APIs, and development tools.
-
----
 
 ## 🎯 What I Bring
 - **Full-Stack Expertise**: End-to-end web application development
